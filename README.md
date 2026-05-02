@@ -21,28 +21,7 @@ stack = {
 
 ---
 
-## 🚀 Layihələr
-
-### 🛒 [SyncMaster](https://github.com/h4senov/SyncMaster) — E-commerce Data Sync Engine
-Shopify, Trendyol və digər platformalardan məlumatları mərkəzi bazaya sinxronlaşdıran Django backend mühərriki.
-- **Celery + Redis** ilə asinxron sinxronizasiya
-- Çevik **ETL & Schema Mapping** Service Layer
-- Avtomatlaşdırılmış **SyncLog** monitoring sistemi
-
-`Django` `DRF` `Celery` `Redis` `ETL` `REST API`
-
----
-
-### 🌱 [AgroVision AI](https://github.com/h4senov/AgroVision-AI) — Smart Farming Platform
-IoT sensorlardan real-zamanlı aqrar data qəbulu, emalı və vizuallaşdırılması üçün tam idarəetmə platforması.
-- Sensor datası üçün mərkəzləşdirilmiş **REST API**
-- Avtomatik suvarma, anbar nəzarəti və hesabat modulları
-- **PostgreSQL** ilə optimallaşdırılmış verilənlər bazası
-
-`Django` `PostgreSQL` `Chart.js` `Bootstrap 5` `IoT`
-
----
-
+ 
 ## 📊 GitHub Statistikası
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h4senov&show_icons=true&theme=tokyonight&hide_border=true)
